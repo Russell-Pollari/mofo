@@ -4,7 +4,7 @@ A twist on the classic connect-4 game, where connecting 4 counters in a straight
 The training code stores the variables and graphs so that they can be analyzed in TensorBoard. They can also be loaded back into the game as an AI opponent using the PlayGame method of mofo.py
 
 This game, imported as a custom OpenAI Gym environment, provides a rich testing ground for training an RL agent to play the game to
-study the dependence of AI performance on different model architectures and board shapes.
+study the dependence of AI performance on different model architectu res and board shapes.
 
 ## Install
 `$ python setup.py install`
